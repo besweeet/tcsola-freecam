@@ -1,5 +1,9 @@
 # True Crime: Streets of LA – Free Camera
 
+Short version: I utilized Claude to make a freecam + noclip mod for TCSOLA, allowing you to explore inside buildings and parts of the map that are difficult or impossible to visit using existing glitches.
+
+Claude-generated README:
+
 A free-fly camera for the 2003 PC release of **True Crime: Streets of LA**. Toggle it with a key, then fly anywhere on the map with mouse look, including areas the game normally keeps out of reach. The game sees an idle keyboard and mouse while you fly, so your character stays put.
 
 It ships as a single `dinput8.dll` that you drop next to the game executable. There is no injector and nothing is written to the game files on disk.
