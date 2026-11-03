@@ -1,6 +1,8 @@
 # True Crime: Streets of LA – Free Camera
 
-Short version: I utilized Claude and Cheat Engine to make a freecam + noclip mod for TCSOLA, allowing you to explore inside buildings and parts of the map that are difficult or impossible to visit using existing glitches.
+Short version:
+
+I utilized Claude and Cheat Engine to make a freecam + noclip mod for TCSOLA, allowing you to explore inside buildings and parts of the map that are difficult or impossible to visit using existing glitches.
 
 Claude-generated README:
 
